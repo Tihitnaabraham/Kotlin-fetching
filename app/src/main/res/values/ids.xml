@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvName" type="id" />
+    <item name="rvPosts" type="id" />
+    <item name="cvPost" type="id" />
+</resources>
