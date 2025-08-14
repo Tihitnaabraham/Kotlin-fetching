@@ -1,4 +1,5 @@
-package com.example.recyclerview
+package com.example.recycler_view
+
 
 data class Comment(
     val postId: Int,
